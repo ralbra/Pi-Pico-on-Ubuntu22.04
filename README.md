@@ -58,7 +58,7 @@ We will install vs code through apt, since this makes less problems later on:
     code --install-extension ms-vscode.cmake-tools
     code --install-extension ms-vscode.cpptools
 
-    cd ~/pico/pico-examples && code
+    cd ~/pico/pico-examples && code .
     
 ## Inside VScode
 
