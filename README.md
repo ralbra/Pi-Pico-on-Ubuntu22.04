@@ -64,7 +64,7 @@ We will install vs code through apt, since this makes less problems later on:
 
 - Add after first line of CMakeLists.txt
     set(PICO_BOARD pico_w)
-    set(WIFI_SSID "TITUS-WLAN")
+    set(WIFI_SSID "your ssid")
     set(WIFI_PASSWORD "password")
     set(TEST_TCP_SERVER_IP "10.0.0.1")
 - Select cmaketools in the left bar
